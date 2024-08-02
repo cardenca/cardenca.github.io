@@ -18,8 +18,8 @@ main:
   - title: "Scientific production"
     url: /publications/
   
-  - title: "CV"
+  - title: "Resume 2024"
     url: /files/resume_2024.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
