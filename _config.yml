@@ -21,7 +21,7 @@ repository               : "cardenca/cardenca.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ccb.png"
+  avatar           : "profile_ccb.jpeg"
   name             : "Carlos Cárdenas Bravo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
