@@ -25,16 +25,16 @@ author:
   name             : Carlos Cárdenas Bravo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "France"
+  location         : "Chambéry, France"
   employer         : "Université Savoie Mont Blanc"
   uri              : # URL
   email            : "carlos.cardenas@cea.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Sx1BsX8AAAAJ&hl=fr&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6209-4853"
   semantic         : # URL
   pubmed           : # URL 
   researchgate     : # URL
