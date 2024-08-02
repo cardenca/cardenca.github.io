@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "PVPMC 2024"
+    url: /pvpmc/
+
   - title: "Guide"
     url: /markdown/
