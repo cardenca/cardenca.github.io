@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 Publications
 -----
 
@@ -19,11 +18,19 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
+Title: On the Parameters Domain of the Single-Diode Model <br>
+Date: lala 
+
+
 Conferences
 -----
 
 
 Patents
 -----
+
+
+
+
 
 
