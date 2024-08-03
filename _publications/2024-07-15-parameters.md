@@ -2,6 +2,7 @@
 title: "On the Parameters Domain of the Single-Diode Model"
 collection: publications
 permalink: /publication/2024-07-15-parameters
+author: 'dsfs'
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-07-15
 venue: 'Solar Energy'
