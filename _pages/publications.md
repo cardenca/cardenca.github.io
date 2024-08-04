@@ -7,7 +7,10 @@ author_profile: true
 
 Here you will find listed the update list of published journal articles, conferences that I have assisted, patents, the thesis I have done.
 
-## <p style="text-align: center"> Journal Articles </p>
+<center> 
+
+## Journal Articles 
+</center>
 
 - <u> On the Parameters Domain of the Single-Diode Model </u> <br>
 *<b>Carlos Cárdenas-Bravo</b>, Denys Dutykh, and Sylvain Lespinats* <br>
