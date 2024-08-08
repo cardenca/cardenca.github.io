@@ -41,22 +41,21 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
 
 <head>
   <style>
-    img {
+    .custom_responsive {
       width: auto;
       height: 100%;
       max-height: 100px;
-      /* object-fit: cover; */
     }
   </style>
 </head>
 
-<img src="/images/usmb.svg" alt="USMB logo"  />
-<img src="/images/lama.png" alt="LAMA logo" />
+<center>
+<img src="/images/usmb.svg" alt="USMB logo" class="custom_responsive"  />
+<img src="/images/lama.png" alt="LAMA logo" class="custom_responsive" />
  
-<img src="/images/cea.jpg" alt="CEA logo" width="auto" height="200" />
-<img src="/images/ines_logo_header.svg" alt="INES logo" width="auto" height="200" />
-
-
+<img src="/images/cea.jpg" alt="CEA logo" class="custom_responsive" />
+<img src="/images/ines_logo_header.svg" alt="INES logo" class="custom_responsive" />
+</center>
 
 
 
