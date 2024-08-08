@@ -1,7 +1,7 @@
 ---
 # layout: archive
 title: "Resume 2024"
-permalink: /publications/
+permalink: /resume/
 author_profile: true
 ---
 

@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 This site offers a comprehensive collection of materials related to my professional research activities. 
 
 <h2><center> 
