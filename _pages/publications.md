@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you will find the updated list of published journal articles, conferences I have attended, patents, and theses I have completed. All documents here can be provided by direct requirement. 
+Here, you will find an updated list of my published journal articles, conference papers, patents, and theses. All published documents are available upon request.
 
 <h2><center> 
   Journal Articles 
@@ -36,26 +36,26 @@ Published in Energies, MDPI, June 2021 <br>
 - <u> Method for estimating a breakdown voltage of a photovoltaic cell </u> <br>
 *Duy Long Ha, <b>Carlos Cárdenas-Bravo</b>, Mohamed Amhal, and Denys Dutykh* <br>
 Published on May 2024 <br>
-<a href="https://patents.google.com/patent/EP4376296A1/en?q=(dutykh+cardenas)&oq=dutykh+cardenas"> EP4376296A1 </a>
+Patent number: <a href="https://patents.google.com/patent/EP4376296A1/en?q=(dutykh+cardenas)&oq=dutykh+cardenas"> EP4376296A1 </a>
 
 - <u> System and method for determining the operating state of solar photovoltaic modules </u> <br> 
 *Rodrigo Cortés, <b>Carlos Cárdenas-Bravo</b>, Patricio Valdivia Lefort, Antonio Sánchez-Squella, Rodrigo Barraza* <br>
 Published on February 2024 <br>
-<a href="https://patents.google.com/patent/US20240039473A1/en"> US20240039473A1 </a>
+Patent number: <a href="https://patents.google.com/patent/US20240039473A1/en"> US20240039473A1 </a>
 
 <h2><center> Theses </center></h2>
 
-- <u> dsfdsf </u> <br>
+- <u> Coupling the electrical and thermal model for solar photovoltaic modules diagnostic </u> <br>
   *<b>Carlos Cárdenas-Bravo</b>* <br>
-  Phylosophy Doctor in Applied Mathematics <br>
-  Directed and supervised by Dr. Sylvain Lespinats and Dr. Denys Dutykh <br>
+  Doctor of Philosophy in Applied Mathematics <br>
+  Directed and supervised by *Dr. Sylvain Lespinats* and *Dr. Denys Dutykh* <br>
   Université Savoie Mont Blanc <br>
   To be presented on next September 2024
 
-- <u> Characterization of the Operating Conditions of Solar Farms based on the Analysis of Electrical Variables </u> <br>
+- <u> Failure mode characterization of solar photovoltaic modules based on their electrical response </u> <br>
   *<b>Carlos Cárdenas-Bravo</b>* <br>
   Master of Science in Electrical Engineering <br>
-  Directed by Dr. *Patricio Valdivia Lefort* <br>
+  Directed by *Dr. Patricio Valdivia Lefort* <br>
   Universidad Técnica Federico Santa María <br>
   Department of Electrical Engineering <br>
   December 2021
