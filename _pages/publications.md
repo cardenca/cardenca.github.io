@@ -29,6 +29,16 @@ Published in Energies, MDPI, June 2021 <br>
 
 <h2><center> Conferences </center></h2>
 
+- <u> A new robust methodology for the identification of parameters on the electrical response of photovoltaic systems through the application of polar coordinates </u> <br>
+  *<b> Carlos Cárdenas-Bravo</b>, Sylvain Lespinats, and Denys Dutykh* <br>
+  2024 European PVPMC Workshop, August 2024 <br>
+  <!-- <a href="https://doi.org/10.4229/WCPEC-82022-3BV.3.32"> doi:10.4229/WCPEC-82022-3BV.3.32 </a>  -->
+
+- <u> Computation of Faulty IV Curves Based on a Distributed Solar Cell Algorithm </u> <br>
+  *<b> Carlos Cárdenas-Bravo</b>, Denys Dutykh, and Dui Long Ha* <br>
+  8th World Conference on Photovoltaic Energy Conversion, September 2022 <br>
+  <a href="https://doi.org/10.4229/WCPEC-82022-3BV.3.32"> doi:10.4229/WCPEC-82022-3BV.3.32 </a> 
+
 - <u> Assessment of the Economic Impact and Management Techniques on Fault Modes present in Photovoltaic Systems </u> <br>
   *<b> Carlos Cárdenas-Bravo</b>, Robinson Cavieres, Rodrigo Barraza, David Godoy, and Patricio Valdivia Lefort* <br>
   Published in International Conference on Solar Heating and Cooling for Buildings and Industry SHC2019, November 2019 <br>
