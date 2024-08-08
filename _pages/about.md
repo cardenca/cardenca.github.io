@@ -27,3 +27,18 @@ In this sense, simplifications can be made by incorporating the short-circuit cu
 This consideration leads to a one-parametric representation of the SDM, recently published [<a href="https://doi.org/10.1016/j.solener.2024.112718">2</a>].
 Future works can demonstrate the evolution of the parameters according to the environmental variables such as the irradiance and the temperature.
 
+<h2><center> 
+  Scientific philosophy
+</center></h2>
+
+I believe that by helping each other we can grow faster. 
+Sharing experiences, ideas, and thoughs can lead to great success.
+Folling this philosophy, I am open for collaborating (find my contact in the left side of the screen).
+
+<h2><center> 
+  Current affiliations
+</center></h2>
+
+<img src="/images/cea.jpg" alt="CEA logo">
+
+<!-- ![lama](/images/lama.png =250x) ![lama](/images/usmb.svg) ![cea](/images/cea.jpg) -->
