@@ -65,7 +65,7 @@ Patent number: <a href="https://patents.google.com/patent/US20240039473A1/en"> U
 
 - <u> Characterization of the Operating Conditions of Solar Farms based on the Analysis of Electrical Variables </u> <br>
   *<b>Carlos Cárdenas-Bravo</b>* <br>
-  Bachelor of Science in electrical Engineering <br>
+  Bachelor of Science in Electrical Engineering <br>
   Directed and supervised by *Dr. Antonio Sánchez-Squella*, *Dr. Patricio Valdivia* Lefort, and *Dr. Rodrigo Barraza Vicencio* <br>
   Universidad Técnica Federico Santa María <br>
   Department of Electrical Engineering <br>
