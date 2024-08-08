@@ -44,17 +44,17 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
     img {
       width: auto;
       height: 100%;
-      max-height: 200px;
+      max-height: 100px;
       /* object-fit: cover; */
     }
   </style>
 </head>
 
-<img src="/images/usmb.svg" alt="USMB logo" width="auto" height="200" />
-<img src="/images/lama.png/" alt="LAMA logo" width="auto" height="200" />
-
-<!-- <img src="/images/cea.jpg" alt="CEA logo" width="auto" height="200" />
-<img src="/images/ines_logo_header.svg" alt="INES logo" width="auto" height="200" /> -->
+<img src="/images/usmb.svg" alt="USMB logo"  />
+<img src="/images/lama.png" alt="LAMA logo" />
+ 
+<img src="/images/cea.jpg" alt="CEA logo" width="auto" height="200" />
+<img src="/images/ines_logo_header.svg" alt="INES logo" width="auto" height="200" />
 
 
 
