@@ -29,7 +29,10 @@ Published in Energies, MDPI, June 2021 <br>
 
 <h2><center> Conferences </center></h2>
 
-- 
+- <u> Assessment of the Economic Impact and Management Techniques on Fault Modes present in Photovoltaic Systems </u> <br>
+  *<b> Carlos Cárdenas-Bravo</b>, Robinson Cavieres, Rodrigo Barraza, David Godoy, and Patricio Valdivia Lefort* <br>
+  Published in International Conference on Solar Heating and Cooling for Buildings and Industry SHC2019, November 2019 <br>
+  <a href="https://doi.org/10.18086/swc.2019.25.01"> doi:10.18086/swc.2019.25.01 </a> 
 
 <h2><center> Patents </center></h2>
 
@@ -45,7 +48,7 @@ Patent number: <a href="https://patents.google.com/patent/US20240039473A1/en"> U
 
 <h2><center> Theses </center></h2>
 
-- <u> Coupling the electrical and thermal model for solar photovoltaic modules diagnostic </u> <br>
+- <u> Coupled electrical and thermal models for photovoltaic module diagnostics </u> <br>
   *<b>Carlos Cárdenas-Bravo</b>* <br>
   Doctor of Philosophy in Applied Mathematics <br>
   Directed and supervised by *Dr. Sylvain Lespinats* and *Dr. Denys Dutykh* <br>
