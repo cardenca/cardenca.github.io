@@ -39,6 +39,16 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
   Current affiliations
 </center></h2>
 
-<img src="/images/cea.jpg" alt="CEA logo">
+<img src="/images/usmb.svg" alt="USMB logo" width="auto" height="200" />
+<img src="/images/lama.png/" alt="LAMA logo" width="auto" height="200" />
 
-<!-- ![lama](/images/lama.png =250x) ![lama](/images/usmb.svg) ![cea](/images/cea.jpg) -->
+<img src="/images/cea.jpg" alt="CEA logo" width="auto" height="200" />
+<img src="/images/ines_logo_header.svg" alt="INES logo" width="auto" height="200" />
+
+
+
+
+
+
+
+
