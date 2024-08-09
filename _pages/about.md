@@ -41,7 +41,7 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
   Current affiliations
 </center></h2>
 
-<!-- <head>
+<head>
   <style>
     .custom_responsive {
       width: auto;
@@ -49,22 +49,24 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
       max-height: 100px;
     }
   </style>
-</head> -->
+</head>
 
-![USMB logo](/images/usmb.svg){: .height="100px" }
+<!-- ![USMB logo](/images/usmb.svg){: .height="100px" }
 ![LAMA logo](/images/lama.png){: .height="100px" }
 
 
 ![CEA logo](/images/cea.jpg){: .height="100px" }
-![INES logo](/images/logo-ines2s-150dpi.350x0.webp){: .height="100px" }
+![INES logo](/images/logo-ines2s-150dpi.350x0.webp){: .height="100px" } -->
 
-<!-- <center>
+<!-- <center> -->
 <img src="/images/usmb.svg" alt="USMB logo" class="custom_responsive"  />
 <img src="/images/lama.png" alt="LAMA logo" class="custom_responsive" /> 
  
+<!-- </br> -->
+
 <img src="/images/cea.jpg" alt="CEA logo" class="custom_responsive" />
-<img src="/images/ines_logo_header.svg" alt="INES logo" class="custom_responsive" />
-</center> -->
+<img src="/images/logo-ines2s-150dpi.350x0.webp" alt="INES logo" class="custom_responsive" />
+<!-- </center> -->
 
 
 
