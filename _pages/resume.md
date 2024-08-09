@@ -5,4 +5,4 @@ permalink: /resume/
 author_profile: true
 ---
 
-Open my resume 2024 <a href="/files/resume_2024.pdf"> here </a>.
+Check my resume 2024 <a href="/files/resume_2024.pdf" target="_blank"> here</a>.
