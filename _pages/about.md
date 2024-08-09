@@ -55,7 +55,7 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
 <img src="/images/usmb.svg" alt="USMB logo" class="custom_responsive"  />
 <img src="/images/lama.png" alt="LAMA logo" class="custom_responsive" /> 
  </center>
-</br>
+<br>
 <center>
 <img src="/images/cea.jpg" alt="CEA logo" class="custom_responsive" />
 <img src="/images/logo-ines2s-150dpi.350x0.webp" alt="INES logo" class="custom_responsive" />
