@@ -22,11 +22,11 @@ I was born in Santiago, Chile. He received the BSc and MSc degrees in electrical
 
 
 Up do date, my research line is constructed around the topic of mathematical modeling applied to solar photovoltaic systems.
-In this regard, [<a href="https://doi.org/10.3390/en14133925">1</a>] attempted to identify the parameters of the single-diode model (SDM) by using a meta-heuristic algorithm. 
+In this regard, [<a href="https://doi.org/10.3390/en14133925" target="_blank">1</a>] attempted to identify the parameters of the single-diode model (SDM) by using a meta-heuristic algorithm. 
 The SDM counts on five parameters that implicitely relates the current and the voltage.
 Therefore, this non-linearity supposes a big challenge when identifying the parameters of the SDM.
 In this sense, simplifications can be made by incorporating the short-circuit current, the open-circuit voltage, and the maximum power point in the formulation.
-This consideration leads to a one-parametric representation of the SDM, recently published [<a href="https://doi.org/10.1016/j.solener.2024.112718">2</a>].
+This consideration leads to a one-parametric representation of the SDM, recently published [<a href="https://doi.org/10.1016/j.solener.2024.112718" target="_blank">2</a>].
 Future works can demonstrate the evolution of the parameters according to the environmental variables such as the irradiance and the temperature.
 
 <h2><center> 
@@ -50,13 +50,6 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
     }
   </style>
 </head>
-
-<!-- ![USMB logo](/images/usmb.svg){: .height="100px" }
-![LAMA logo](/images/lama.png){: .height="100px" }
-
-
-![CEA logo](/images/cea.jpg){: .height="100px" }
-![INES logo](/images/logo-ines2s-150dpi.350x0.webp){: .height="100px" } -->
 
 <center>
 <img src="/images/usmb.svg" alt="USMB logo" class="custom_responsive"  />
