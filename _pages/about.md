@@ -58,15 +58,15 @@ Folling this philosophy, I am open for collaborating (find my contact in the lef
 ![CEA logo](/images/cea.jpg){: .height="100px" }
 ![INES logo](/images/logo-ines2s-150dpi.350x0.webp){: .height="100px" } -->
 
-<!-- <center> -->
+<center>
 <img src="/images/usmb.svg" alt="USMB logo" class="custom_responsive"  />
 <img src="/images/lama.png" alt="LAMA logo" class="custom_responsive" /> 
- 
-<!-- </br> -->
-
+ </center>
+</br>
+<center>
 <img src="/images/cea.jpg" alt="CEA logo" class="custom_responsive" />
 <img src="/images/logo-ines2s-150dpi.350x0.webp" alt="INES logo" class="custom_responsive" />
-<!-- </center> -->
+ </center>
 
 
 
