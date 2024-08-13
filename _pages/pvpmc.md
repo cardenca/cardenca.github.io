@@ -20,11 +20,11 @@ The workshop program to date August 3, 2024, can be accessed <a href="https://pv
 *<b>Carlos Cárdenas-Bravo</b>, Denys Dutykh, and Sylvain Lespinats* <br>
 Accepted as poster by the European PVPMC Workshop, Aug. 2024. <br>
 
-<a href="/files/abstract_2024.pdf" target="_blank"> Link to the abstract file.</a>
+Next you can find the link to the presented abstract and the poster. Additionally, it is included a supplementary material extending the information presented in the poster:
 
-<a href="/files/abstract_2024.pdf" target="_blank"> Link to the poster file.</a>
-
-<a href="/files/abstract_2024.pdf" target="_blank"> Link to the extended file.</a>
+- <a href="/files/abstract_2024.pdf" target="_blank"> Link to the abstract file.</a>
+- <a href="/files/PVPCM2024_CCB.pdf" target="_blank"> Link to the poster file.</a>
+- <a href="/files/abstract_2024.pdf" target="_blank"> Link to the supplementary file.</a>
 
 <h2><center> 
   Previous published work
@@ -44,10 +44,16 @@ Patent number: <a href="https://patents.google.com/patent/US20230188090A1/en" ta
   Web resources
 </center></h2>
 
-<a href="https://iea-pvps.org/events/2024-european-pvpmc-workshop/" target="_blank"> Workshop PVPMC 2024 website. </a> <br>
-<a href="https://pvpmc.sandia.gov/" target="_blank"> PVPMC sandia website. </a> 
+- <a href="https://iea-pvps.org/events/2024-european-pvpmc-workshop/" target="_blank"> Workshop PVPMC 2024 website </a> <br>
+- <a href="https://pvpmc.sandia.gov/" target="_blank"> PVPMC sandia website </a> 
+- <a href="https://pvlib-python.readthedocs.io/en/v0.6.2/" target="_blank"> pvlib python documentation </a>
+- <a href="https://www.pveducation.org/" target="_blank"> PV education webpage </a>
 
 
+<h2><center> 
+  Open source datasets
+</center></h2>
 
-
+- <a href="https://www.energy.ca.gov/media/2367" target="_blank"> California energy commission (CEC) </a>
+- <a href="https://datahub.duramat.org/dataset/data-for-validating-models-for-pv-module-performance" target="_blank"> NREL: Data for Validating Models for PV Module Performance  </a>
 
