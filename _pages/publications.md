@@ -48,12 +48,12 @@ Published in Energies, MDPI, June 2021 <br>
 
 - <u> Method for estimating a breakdown voltage of a photovoltaic cell </u> <br>
 *Duy Long Ha, <b>Carlos Cárdenas-Bravo</b>, Mohamed Amhal, and Denys Dutykh* <br>
-Published on May 2024 <br>
+Published on May 2024, Europoean Patent Office <br>
 Patent number: <a href="https://patents.google.com/patent/EP4376296A1/en?q=(dutykh+cardenas)&oq=dutykh+cardenas" target="_blank"> EP4376296A1 </a>
 
 - <u> System and method for determining the operating state of solar photovoltaic modules </u> <br> 
 *Rodrigo Cortés, <b>Carlos Cárdenas-Bravo</b>, Patricio Valdivia Lefort, Antonio Sánchez-Squella, Rodrigo Barraza* <br>
-Published on February 2024 <br>
+Published on February 2024, United States <br>
 Patent number: <a href="https://patents.google.com/patent/US20240039473A1/en" target="_blank"> US20240039473A1 </a>
 
 <h2><center> Theses </center></h2>
