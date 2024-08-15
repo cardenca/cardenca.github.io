@@ -16,9 +16,9 @@ The workshop program to date August 3, 2024, can be accessed <a href="https://pv
   Presented poster
 </center></h2>
 
-<u> A new robust methodology for the identification of parameters on the electrical response of photovoltaic systems through the application of polar coordinates </u> <br>
+A new robust methodology for the identification of parameters on the electrical response of photovoltaic systems through the application of polar coordinates <br>
 *<b>Carlos Cárdenas-Bravo</b>, Denys Dutykh, and Sylvain Lespinats* <br>
-Accepted as poster by the European PVPMC Workshop, Aug. 2024. <br>
+Accepted as poster presentation by the European PVPMC Workshop, Aug. 2024. <br>
 
 Next you can find the link to the presented abstract and the poster. Additionally, it is included a supplementary material extending the information presented in the poster:
 
@@ -30,13 +30,13 @@ Next you can find the link to the presented abstract and the poster. Additionall
   Previous published work
 </center></h2>
 
-- <u> On the Parameters Domain of the Single-Diode Model </u> <br>
+- On the Parameters Domain of the Single-Diode Model <br>
 *<b>Carlos Cárdenas-Bravo</b>, Denys Dutykh, and Sylvain Lespinats* <br>
 Published in Solar Energy, Elsevier, June 2024 <br>
 <a href="https://doi.org/10.1016/j.solener.2024.112718" target="_blank">doi:10.1016/j.solener.2024.112718 </a> <br> 
 
-- <u> Method and device of operating diagnosis of a photovoltaic chain comprising at least one photovoltaic module  </u> <br>
-Sylvain Lespinats, Arnaud Revel, Alexandre Plissonnier <br>
+- Method and device of operating diagnosis of a photovoltaic chain comprising at least one photovoltaic module <br>
+*Sylvain Lespinats, Arnaud Revel, Alexandre Plissonnier* <br>
 Published on June 2023, United States <br>
 Patent number: <a href="https://patents.google.com/patent/US20230188090A1/en" target="_blank"> US20230188090A1 </a>
 
