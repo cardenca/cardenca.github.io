@@ -14,28 +14,25 @@ This site offers a comprehensive collection of materials related to my professio
 
 ![solar photovoltaic modules generated on https://cgdream.ai/](/images/sun.png){: .align-right width="300px" }
 
-I was born in Santiago, Chile. He received the BSc and MSc degrees in electrical engineering from the Universidad Técnica Federico Santa María (UTFSM), Chile, in 2021. Currently, I am pursuing a PhD in applied mathematics in collaboration with the Université Savoie Mont Blanc (USMB) and the Institut National de l'Energie Solaire (INES), France. My main interest is energy modeling, particularly in the field of solar photovoltaic (PV) energy, oriented to the electrical response of solar PV systems.
+Born in Santiago, Chile, in 1993, I developed a passion for learning early on. 
+After earning my BSc and MSc in Electrical Engineering from Universidad Técnica Federico Santa María (UTFSM) in 2021, I embarked on a PhD journey in Applied Mathematics. 
+I'm currently collaborating with Université Savoie Mont Blanc (USMB) and the Institut National de l'Energie Solaire (INES) in France. 
+My research is driven by a deep interest in energy modeling, with a special focus on unlocking the potential of solar photovoltaic (PV) systems.
 
 <h2><center> 
   Research line
 </center></h2>
 
-
-Up do date, my research line is constructed around the topic of mathematical modeling applied to solar photovoltaic systems.
-In this regard, [<a href="https://doi.org/10.3390/en14133925" target="_blank">1</a>] attempted to identify the parameters of the single-diode model (SDM) by using a meta-heuristic algorithm. 
-The SDM counts on five parameters that implicitely relates the current and the voltage.
-Therefore, this non-linearity supposes a big challenge when identifying the parameters of the SDM.
-In this sense, simplifications can be made by incorporating the short-circuit current, the open-circuit voltage, and the maximum power point in the formulation.
-This consideration leads to a one-parametric representation of the SDM, recently published [<a href="https://doi.org/10.1016/j.solener.2024.112718" target="_blank">2</a>].
-Future works can demonstrate the evolution of the parameters according to the environmental variables such as the irradiance and the temperature.
+My research is currently centered on the mathematical modeling of solar photovoltaic systems, with a particular focus on the single-diode model (SDM). In [<a href='https://doi.org/10.3390/en14133925' target='_blank'>1</a>], efforts were made to identify the parameters of the SDM through a meta-heuristic algorithm. The SDM is characterized by five parameters that define the implicit relationship between current and voltage, presenting a significant challenge due to the model's inherent non-linearity. To mitigate this complexity, simplifications can be introduced by incorporating key operating points—such as short-circuit current, open-circuit voltage, and the maximum power point—into the model's formulation. This approach has led to the development of a one-parameter representation of the SDM, as recently detailed in [<a href='https://doi.org/10.1016/j.solener.2024.112718' target='_blank'>2</a>]. Future research will aim to elucidate the dynamic behavior of these parameters under varying environmental conditions, such as changes in irradiance and temperature.
 
 <h2><center> 
   Scientific philosophy
 </center></h2>
 
-I believe that by helping each other we can grow faster. 
-Sharing experiences, ideas, and thoughs can lead to great success.
-Folling this philosophy, I am open for collaborating (find my contact in the left side of the screen).
+I believe that we can grow faster by helping each other. 
+Sharing experiences, ideas, and thoughts can lead to great success. 
+With this in mind, I’m open to collaborating. 
+You can find my contact information on the left side of the screen.
 
 <h2><center> 
   Current affiliations
