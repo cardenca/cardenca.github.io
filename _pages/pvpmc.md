@@ -24,7 +24,7 @@ Next you can find the link to the presented abstract and the poster. Additionall
 
 - <a href="/files/abstract_2024.pdf" target="_blank"> Link to the abstract file.</a>
 - <a href="/files/PVPCM2024_CCB.pdf" target="_blank"> Link to the poster file.</a>
-- <a href="/files/abstract_2024.pdf" target="_blank"> Link to the supplementary file.</a>
+- <a href="/files/extended_PVPMC_abstract.pdf" target="_blank"> Link to the supplementary file.</a>
 
 <h2><center> 
   Previous published work
