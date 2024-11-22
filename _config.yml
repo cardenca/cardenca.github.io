@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD in Applied Mathematics"
   location         : "Santiago, Chile"
-  employer         : "Universidad Técnica Federico Santa María"
+  # employer         : "Universidad Técnica \n Federico Santa María"
+  employer         : " - "
   uri              : # URL
   email            : "carlos.cardenas@usm.cl" 
 
