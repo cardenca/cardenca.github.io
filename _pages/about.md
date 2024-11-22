@@ -34,7 +34,7 @@ Sharing experiences, ideas, and thoughts can lead to great success.
 With this in mind, I’m open to collaborating. 
 You can find my contact information on the left side of the screen.
 
-<h2><center> 
+<!-- <h2><center> 
   Current affiliations
 </center></h2>
 
@@ -59,7 +59,7 @@ You can find my contact information on the left side of the screen.
  </center>
 
 
-
+ -->
 
 
 

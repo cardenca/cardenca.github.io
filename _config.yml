@@ -24,11 +24,11 @@ author:
   avatar           : "profile_ccb.jpeg"
   name             : "Carlos Cárdenas-Bravo"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Applied Mathematics"
-  location         : "Chambéry, France"
-  employer         : "Université Savoie Mont Blanc"
+  bio              : "PhD in Applied Mathematics"
+  location         : "Santiago, Chile"
+  employer         : "Universidad Técnica Federico Santa María"
   uri              : # URL
-  email            : "carlos.cardenas@cea.fr" 
+  email            : "carlos.cardenas@usm.cl" 
 
   # Academic websites
   arxiv            : https://arxiv.org/a/cardenasbravo_c_1.html # URL - Update with the correct link to your profile
